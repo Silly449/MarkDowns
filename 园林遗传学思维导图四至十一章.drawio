@@ -82,7 +82,7 @@
         <mxCell id="vgmZHaIdFbXiQO-vuASr-22" value="1、园林植物&lt;div&gt;观赏植物（ornamental plants）：具有一定观赏&lt;br&gt;价值，&lt;div&gt;用于室内外布置以美化环境并丰富人们生活的&lt;br&gt;植物。&lt;/div&gt;&lt;div&gt;2、园林植物的重要性&lt;/div&gt;&lt;/div&gt;&lt;div&gt;（1）园林植物是造园的基本要素&lt;/div&gt;&lt;div&gt;（2）中华民族的“花文化”&lt;/div&gt;&lt;div&gt;（3）园林植物已深入人们的日常生活&lt;/div&gt;&lt;div&gt;3、遗传学：研究生物&lt;b&gt;遗传与变异规律&lt;/b&gt;的科学。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-667" y="-528" width="244" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="vgmZHaIdFbXiQO-vuASr-26" value="1、遗传与变异的概念&lt;div&gt;（1）遗传：性状由亲代向子代传递的现象。&lt;/div&gt;&lt;div&gt;（2）变异：指亲代与子代之间及子代个体之间的差异&lt;/div&gt;&lt;div&gt;2、遗传与变异的重要性：&lt;/div&gt;&lt;div&gt;遗传与变异是生命活动的基本特征之一&lt;br&gt;遗传保证物种繁衍和性状的相对稳定&lt;br&gt;没有变异，生物界就失去了进化的动力&lt;/div&gt;&lt;div&gt;3、变异的农业生产实践应用实例&lt;/div&gt;&lt;div&gt;4. 影响生物进化和新品种选育的&lt;b&gt;三大因素&lt;/b&gt;&lt;/div&gt;&lt;div&gt;遗传、变异和选择&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-26" value="1、遗传与变异的概念&lt;div&gt;（1）遗传：性状由亲代向子代传递的现象。&lt;/div&gt;&lt;div&gt;（2）变异：指亲代与子代之间及子代个体之间的差异&lt;/div&gt;&lt;div&gt;2、遗传与变异的重要性：&lt;/div&gt;&lt;div&gt;遗传与变异是生命活动的基本特征之一&lt;br&gt;遗传保证物种繁衍和性状的相对稳定&lt;br&gt;没有变异，生物界就失去了进化的动力&lt;/div&gt;&lt;div&gt;3、变异的农业生产实践应用实例&lt;/div&gt;&lt;div&gt;4. 影响生物进化和新品种选育的&lt;b&gt;三大因素&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;遗传、变异和选择&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-952" y="-495" width="277" height="144" as="geometry" />
         </mxCell>
         <mxCell id="vgmZHaIdFbXiQO-vuASr-30" value="五、当代遗传学成就" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
@@ -90,6 +90,108 @@
         </mxCell>
         <mxCell id="vgmZHaIdFbXiQO-vuASr-34" value="六、现代遗传学的主要分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-813" y="-691" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="vgmZHaIdFbXiQO-vuASr-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1.068965517241395" y="-926.563232421875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-54" value="植物细胞的结构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vgmZHaIdFbXiQO-vuASr-53">
+          <mxGeometry x="-0.2719" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="vgmZHaIdFbXiQO-vuASr-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188" y="-861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-56" value="染色体的形态、数目和结构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vgmZHaIdFbXiQO-vuASr-55">
+          <mxGeometry x="-0.2205" relative="1" as="geometry">
+            <mxPoint x="17" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="vgmZHaIdFbXiQO-vuASr-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177.78163725754303" y="-736.218404835668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-58" value="细胞的有丝分裂" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vgmZHaIdFbXiQO-vuASr-57">
+          <mxGeometry x="-0.3832" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="vgmZHaIdFbXiQO-vuASr-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-22.218362742456748" y="-665.8735772494613" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-60" value="细胞的减数分裂" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vgmZHaIdFbXiQO-vuASr-59">
+          <mxGeometry x="-0.1062" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="vgmZHaIdFbXiQO-vuASr-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-179" y="-778.9770255253233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-62" value="配子的形成和受精" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vgmZHaIdFbXiQO-vuASr-61">
+          <mxGeometry x="-0.017" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="vgmZHaIdFbXiQO-vuASr-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-168.42525929418093" y="-856.218404835668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-65" value="植物的生活史" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="vgmZHaIdFbXiQO-vuASr-63">
+          <mxGeometry x="0.0311" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-52" value="第二章&lt;div&gt;遗传的细胞学基础&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-76" y="-839" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-67" value="细胞质，细胞核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-53" y="-952" width="95" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-68" value="一、真核生物染色体的形态特征与大小&lt;div&gt;主缢痕、&lt;br&gt;长臂和短臂、着丝粒、&lt;br&gt;次缢痕、随体&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="276" y="-1005" width="205" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-72" value="二、染色体的数目&lt;div&gt;各种生物的染色体数目都是恒定的（包括不同个体，&lt;br/&gt;同一个体不同器官），在体细胞中成对存在（2n)，&lt;br/&gt;在性细胞中成单存在(n)。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="243" y="-927" width="271" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-73" value="三、染色体的结构&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="339" y="-827" width="106" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-74" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;fillColor=#d5e8d4;" edge="1" parent="1" target="vgmZHaIdFbXiQO-vuASr-68">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="190" y="-856" as="sourcePoint" />
+            <mxPoint x="242" y="-875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="229" y="-969" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-75" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;fillColor=#d5e8d4;" edge="1" parent="1" target="vgmZHaIdFbXiQO-vuASr-72">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="190" y="-856" as="sourcePoint" />
+            <mxPoint x="282" y="-856" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="226" y="-880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgmZHaIdFbXiQO-vuASr-76" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=#82b366;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;entryX=-0.02;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" edge="1" parent="1" target="vgmZHaIdFbXiQO-vuASr-73">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="190" y="-858" as="sourcePoint" />
+            <mxPoint x="253" y="-872" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="233" y="-803" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
