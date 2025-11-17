@@ -4,6 +4,9 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-93" value="1. 染色质重塑和组蛋白修饰&#xa;组蛋白的转录后修饰包括甲基化、乙酰化、磷酸化等；&#xa;2. DNA分子特定碱基的结构修饰；&#xa;3. 非编码RNA调控" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-978.5033740234376" y="247" width="292" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="vgmZHaIdFbXiQO-vuASr-1" value="虽然写了园林遗传学思维导图四到十一章，但实际上我从第一章从新开始做了。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-887" y="-937" width="309" height="30" as="geometry" />
         </mxCell>
@@ -422,8 +425,216 @@
         <mxCell id="KYyAvzE3Rm2jODoSWq_c-43" value="细胞质雄性不育型&lt;div&gt;、细胞核雄性不育型&lt;/div&gt;&lt;div&gt;、核-质不育型&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="161" y="-68" width="102.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="KYyAvzE3Rm2jODoSWq_c-44" value="第五章&lt;div&gt;细胞质遗传&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-691" y="228.33334350585938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-48" value="第一节染色体数目变异" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-47">
+          <mxGeometry x="-0.175" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-515" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-63" value="第二节染色体结构变异" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-62">
+          <mxGeometry x="-0.2597" y="-7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-797.6666870117188" y="493.66668701171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-79" value="第三节基因突变" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-78">
+          <mxGeometry x="0.3189" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-90" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-836.3333740234375" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-91" value="第四节表观遗传变异" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-90">
+          <mxGeometry x="0.5483" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-44" value="第6章&lt;div&gt;遗传物质的变异&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-751" y="335" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-49" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-690" y="232" as="sourcePoint" />
+            <mxPoint x="-781" y="162" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-50" value="染色体组及基本概念" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-49">
+          <mxGeometry x="-0.1075" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-51" value="染色体组&lt;div&gt;染色体基数&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-842" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-52" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-690" y="239" as="sourcePoint" />
+            <mxPoint x="-690" y="126" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-53" value="二、整倍性变异" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-52">
+          <mxGeometry x="-0.1075" y="3" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-54" value="多倍体" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-717" y="104" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-56" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-690" y="228" as="sourcePoint" />
+            <mxPoint x="-599" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-57" value="非整倍性变异" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-56">
+          <mxGeometry x="-0.1075" y="3" relative="1" as="geometry">
+            <mxPoint x="10" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-58" value="非整倍体" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-618" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-59" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-683" y="232" as="sourcePoint" />
+            <mxPoint x="-560" y="263" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-60" value="单倍体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-59">
+          <mxGeometry x="-0.1075" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-61" value="雌或雄配子长成的植物体，称为单倍体" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-558" y="261" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-64" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-508" y="424" as="sourcePoint" />
+            <mxPoint x="-414" y="418" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-65" value="一、缺失(deficiency)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-64">
+          <mxGeometry x="-0.1076" y="4" relative="1" as="geometry">
+            <mxPoint x="15" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-66" value="是指因染色体上某一区段及其带有&lt;br/&gt;的基因丢失而引起变异的现象" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="366" width="119" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-69" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-515" y="428" as="sourcePoint" />
+            <mxPoint x="-441" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-70" value="二、重复(duplication)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-69">
+          <mxGeometry x="-0.1076" y="4" relative="1" as="geometry">
+            <mxPoint x="15" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-71" value="是指染色体上增加了自身的某一区段而引起变异的现象" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-451" y="492" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-72" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-519" y="428" as="sourcePoint" />
+            <mxPoint x="-564" y="504" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-73" value="三、倒位(inversion)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-72">
+          <mxGeometry x="-0.1076" y="4" relative="1" as="geometry">
+            <mxPoint x="-2" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-74" value="染色体的某区段倒转180°，造成染色体内的重新排列" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-633" y="506" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-75" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-522" y="424" as="sourcePoint" />
+            <mxPoint x="-636" y="452" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-76" value="四、易位(translocation)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-75">
+          <mxGeometry x="-0.1076" y="4" relative="1" as="geometry">
+            <mxPoint x="-9" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-77" value="两个非同源染色体间发生片段转移的现象称为易位" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="454" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-80" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-794" y="490" as="sourcePoint" />
+            <mxPoint x="-689" y="578" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-81" value="一、基因突变的概念" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-80">
+          <mxGeometry x="0.1646" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-83" value="基因突变(Gene Mutation)：指染色体上某一基因位点内部&lt;br/&gt;发生了化学结构的变化，与原来基因形成对性关系。" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-716" y="576" width="298" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-84" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-794" y="491" as="sourcePoint" />
+            <mxPoint x="-878" y="568" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-85" value="二、基因突变的一般特征" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-84">
+          <mxGeometry x="0.1646" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-86" value="重演性、可逆性、多向性、平行性、有害性和有利性" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-922" y="563" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-87" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-801" y="491" as="sourcePoint" />
+            <mxPoint x="-924" y="487" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-88" value="三、基因突变与性状表现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-87">
+          <mxGeometry x="0.1646" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-89" value="●突变频率●时空" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="454" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-92" value="表观遗传修饰的类型（三重开关）" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-917" y="301" width="169" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
