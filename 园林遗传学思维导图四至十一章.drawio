@@ -778,6 +778,49 @@
         <mxCell id="KYyAvzE3Rm2jODoSWq_c-128" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="44" y="372" width="34.1" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-131" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-691" y="853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-132" value="第一节理想群体中的基因行为" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-131">
+          <mxGeometry x="0.0303" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-129" value="第8章&lt;br/&gt;群体遗传与进化" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="952" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-133" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-692" y="860" as="sourcePoint" />
+            <mxPoint x="-826" y="797" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-134" value="1. 理想群体" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-133">
+          <mxGeometry x="-0.0551" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-135" value="在一个群体内所有个体间随机交配→群体中个体基因的分离与自由组&lt;br/&gt;合，仍然遵循孟德尔遗传规律" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-888" y="764" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-136" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-696" y="852" as="sourcePoint" />
+            <mxPoint x="-714" y="772" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-137" value="2. 基因频率和基因型频率" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-136">
+          <mxGeometry x="-0.0551" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-139" value="基因频率和基因型频率是群体遗传组成的基本标志，是群体遗传性的标志" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-782" y="728" width="119" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
