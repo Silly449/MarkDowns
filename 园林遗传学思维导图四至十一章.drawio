@@ -821,6 +821,24 @@
         <mxCell id="KYyAvzE3Rm2jODoSWq_c-139" value="基因频率和基因型频率是群体遗传组成的基本标志，是群体遗传性的标志" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-782" y="728" width="119" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-141" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-690" y="865" as="sourcePoint" />
+            <mxPoint x="-584" y="824" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-142" value="3. 遗传平衡定律" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-141">
+          <mxGeometry x="-0.0551" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-143" value="基因频率是决定群体基因性质的基本因素" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="792" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-144" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-592.1" y="831" width="34.1" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
