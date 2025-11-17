@@ -788,6 +788,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-146" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-496.3333740234375" y="992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-147" value="第二节影响群体遗传组成的因素" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-146">
+          <mxGeometry x="-0.2475" y="-4" relative="1" as="geometry">
+            <mxPoint x="24" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-159" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-601.6666870117188" y="1157.6666870117188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-160" value="第三节自然群体中的遗传多态性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-159">
+          <mxGeometry x="-0.1016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-162" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="KYyAvzE3Rm2jODoSWq_c-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-842.9999389648438" y="1098.3334350585938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-163" value="第四节栽培群体的遗传&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-162">
+          <mxGeometry x="0.5558" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KYyAvzE3Rm2jODoSWq_c-129" value="第8章&lt;br/&gt;群体遗传与进化" style="ellipse;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-751" y="952" width="120" height="80" as="geometry" />
         </mxCell>
@@ -838,6 +868,99 @@
         </mxCell>
         <mxCell id="KYyAvzE3Rm2jODoSWq_c-144" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-592.1" y="831" width="34.1" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-148" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-496" y="989" as="sourcePoint" />
+            <mxPoint x="-422" y="919" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-149" value="1、突变" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-148">
+          <mxGeometry x="0.1776" y="-3" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-150" value="（1）基因突变对于改变群体遗传组成的作用" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-488" y="883" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-152" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-496" y="992" as="sourcePoint" />
+            <mxPoint x="-402" y="1002" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-153" value="2. 选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-152">
+          <mxGeometry x="0.1776" y="-3" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-155" value="（1）适合度和选择系数&lt;div&gt;从表现型上淘汰隐性性状的速度很慢，效果随着世代的&lt;br/&gt;增加而变差&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="989" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-156" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-503" y="990" as="sourcePoint" />
+            <mxPoint x="-478" y="1056" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-157" value="3. 选择和突变的联合效应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-156">
+          <mxGeometry x="0.1776" y="-3" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-158" value="有害基因在自然界依然存在" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="1062" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-161" value="多态性和杂合性" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-628" y="1154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-164" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-846" y="1106" as="sourcePoint" />
+            <mxPoint x="-794" y="1165" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-165" value="1. 定向选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-164">
+          <mxGeometry x="-0.073" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-167" value="（1）选择压力加大（2）多方向性（3）多因素选择" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="1171" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-168" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-850" y="1098" as="sourcePoint" />
+            <mxPoint x="-955" y="1144" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-169" value=" 2. 积累变异" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-168">
+          <mxGeometry x="-0.073" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-171" value="栽培条件可使自然条件下无法保留的突变个体得以保留" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="1154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-172" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="-854" y="1088" as="sourcePoint" />
+            <mxPoint x="-966" y="1098" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-173" value=" 3. 小群体的遗传漂移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="KYyAvzE3Rm2jODoSWq_c-172">
+          <mxGeometry x="-0.073" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYyAvzE3Rm2jODoSWq_c-174" value="，观赏植物的&lt;br/&gt;群体更小，随机抽样误差更大" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1028" y="1082" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
